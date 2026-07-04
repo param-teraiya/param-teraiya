@@ -11,12 +11,7 @@ public record of what I've shipped since 2019, across five companies, is at
 **[paramteraiya.me/shipped](https://www.paramteraiya.me/shipped)**.
 
 **Now**  ·  context engineering & agent infrastructure @ Caylex
-**Before**  ·  Senior SWE @ Middleware (YC W23), led AI diagnostics · full-stack AI @ TheAgentic
-
-### A few things I've built in the open
-- **[mcp-classifier]** — scores how dangerous an MCP tool is *(publish per spec)*
-- **[portfolio]** — this-is-my-site, agent-readable (llms.txt + JSON-LD)
-- **[message-queue-go-kafka]** — a small Kafka producer/consumer in Go
+**Before**  ·  Senior SWE & AI Team Lead @ Middleware (YC W23), led AI Observability · full-stack AI @ TheAgentic
 
 ### Reach me
 paramteraiya.me  ·  x.com/ohmyparams  ·  linkedin.com/in/paramteraiya
