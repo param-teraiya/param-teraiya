@@ -7,8 +7,8 @@ engineering that keeps them reliable, and the governance layer that makes
 them safe to run.
 
 Most of my current work is private (Caylex — agent infrastructure). The
-public record of what I've shipped since 2019, across five companies, is at
-**paramteraiya.me/shipped**.
+public record of what I've shipped since 2019, across five companies, is at 
+**[paramteraiya.me/shipped](https://www.paramteraiya.me/shipped)**.
 
 **Now**  ·  context engineering & agent infrastructure @ Caylex
 **Before**  ·  Senior SWE @ Middleware (YC W23), led AI diagnostics · full-stack AI @ TheAgentic
